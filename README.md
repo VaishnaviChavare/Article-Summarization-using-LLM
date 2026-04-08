@@ -4,32 +4,32 @@ Built an AI-powered Article Summarizer that takes PDF/DOC files as input and gen
 
 **Features**
 
-Upload PDF documents for processing
+• Upload PDF documents for processing
 
-Generate concise summaries using LLM (LLaMA via Groq API)
+• Generate concise summaries using LLM (LLaMA via Groq API)
 
-Ask questions based on document context
+• Ask questions based on document context
 
-Fast and interactive UI built with Streamlit
+• Fast and interactive UI built with Streamlit
 
-End-to-end pipeline from input → processing → output
+• End-to-end pipeline from input → processing → output
 
 **Tech Stack**
 
-Python
+• Python
 
-Transformers / LLM (LLaMA via Groq API)
+• Transformers / LLM (LLaMA via Groq API)
 
-Streamlit (Frontend UI)
+• Streamlit (Frontend UI)
 
-PyMuPDF (PDF text extraction)
+• PyMuPDF (PDF text extraction)
 
 **Key Highlights**
 
-Implemented sequence-to-sequence learning concepts for summarization
+• Implemented sequence-to-sequence learning concepts for summarization
 
-Applied attention mechanisms through modern LLM architectures
+• Applied attention mechanisms through modern LLM architectures
 
-Built an easy-to-deploy and scalable application
+• Built an easy-to-deploy and scalable application
 
-Improved efficiency in understanding long articles and documents
+• Improved efficiency in understanding long articles and documents
