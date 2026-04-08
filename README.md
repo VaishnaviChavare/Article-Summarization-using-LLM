@@ -1,8 +1,8 @@
 # Article Summarization using LLM & Q&A System
 
-##Built an AI-powered Article Summarizer that takes PDF/DOC files as input and generates concise summaries using a Large Language Model. The application also supports interactive question-answering based on the uploaded document.
+Built an AI-powered Article Summarizer that takes PDF/DOC files as input and generates concise summaries using a Large Language Model. The application also supports interactive question-answering based on the uploaded document.
 
-##Features
+**Features**
 
 Upload PDF documents for processing
 
@@ -14,7 +14,7 @@ Fast and interactive UI built with Streamlit
 
 End-to-end pipeline from input → processing → output
 
-##Tech Stack
+**Tech Stack**
 
 Python
 
@@ -24,7 +24,7 @@ Streamlit (Frontend UI)
 
 PyMuPDF (PDF text extraction)
 
-##Key Highlights
+**Key Highlights**
 
 Implemented sequence-to-sequence learning concepts for summarization
 
