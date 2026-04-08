@@ -1,0 +1,13 @@
+groq    # Groq client (if available on PyPI, otherwise you might need to install directly from the source)
+llama-index   # Large Language Model indexing
+langchain   # Agent-based framework for LLMs
+openai         # If OpenAI integration is used
+tqdm         # Progress bar for tasks
+validators    # Input validation
+numpy       # If numerical computations are involved
+pandas      # For data manipulation, if needed
+matplotlib   # Visualization support
+python-dotenv
+streamlit==1.38.0
+PyMuPDF
+Pillow==10.4.0
